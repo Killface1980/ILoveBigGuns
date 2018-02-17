@@ -4,17 +4,16 @@
   <author>Killface</author>
   <url></url>
   <targetVersion>0.18.0</targetVersion>
-  <description>
-    Big Gun Mod
+  <description>Big Gun Mod
 
-    This mod changes the visible size of weapons, with magnifications of 140 % and 200 %. See options for details.
+This mod changes the visible size of weapons, with magnifications of 140 % and 200 %. See options for details.
 
-    The default plane10 is exchanged with plane14 or plane20, thus enlarging all weapons.
-    This is done via a transpiler for DrawEquipmentAiming.
-    
-    Save game compatible: can be added/removed.
-    Possibly not compatible with all mods which cancel the execution of DrawEquipmentAiming or alter it in not recognizable ways.
-    
-    Powered by Harmony.
+The default plane10 is exchanged with plane14 or plane20, thus enlarging all weapons.
+This is done via a transpiler for DrawEquipmentAiming.
+
+Save game friendly: can be added/removed.
+Possibly not compatible with all mods which cancel the execution of DrawEquipmentAiming or alter it in not recognizable ways.
+
+Powered by Harmony.
   </description>
 </ModMetaData>
